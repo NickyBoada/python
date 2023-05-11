@@ -1,0 +1,33 @@
+# Sofia's game
+
+La funcionalidad de mi proyecto consiste comenzando en declaracion de las variables principales, 
+utilizando las librerias pygame(nos ayuda a con el desarrollo de videojuegos 2d en el lenguaje de programacion
+de python)y random (ofrece generadores de numeros pseudo-aleatorios para varias distribuciones). 
+Luego se puede observar la clase del jugador (Player) con sus respectivas
+funciones seguido de un update. 
+A continuacion, podemos encontrar la clase de los meteoritos (Meteor), con sus respectivas 
+funciones seguidas tambien de un update. luego, establezco el fondo de mi juego, declaro mi buclee y verificamos 
+el evento 
+
+## Getting Started
+
+Tener previamente instalado el ambiente Python, preferiblemente con las siguientes EDI
+
+### Prerequisites
+
+Visual Studio code
+Python 3
+
+## Authors
+
+* **Sofia Boada** - *Initial work* - [PurpleBooth](https://github.com/NickyBoada)
+
+## License
+
+Para fines de estudio
+
+## Acknowledgments
+
+
+
+
